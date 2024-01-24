@@ -7,7 +7,7 @@ const Header = (props) => {
   return (
     <HeaderContainer>
       <div className="logo">
-        <img src="https://res.cloudinary.com/ehizeex-shop/image/upload/v1668265433/NetflixApp/2560px-Netflix_2015_logo.svg_rbicwl_knwp6f.png" alt="Netflix logo" />
+        <img src="https://wallpapercave.com/dwp1x/wp5063338.jpg" alt="Netflix logo" />
       </div>
       <button onClick={() => navigate(props.login ? '/login' : '/signup')}>
         {
