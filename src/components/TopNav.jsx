@@ -24,7 +24,7 @@ const TopNav = ({ isScrolled }) => {
         <div className="leftside">
           <div className="logo">
             <img
-              src="https://res.cloudinary.com/ehizeex-shop/image/upload/v1668265433/NetflixApp/2560px-Netflix_2015_logo.svg_rbicwl_knwp6f.png"
+              src="https://wallpapercave.com/dwp1x/wp5063338.jpg"
               alt="logo"
             />
           </div>
