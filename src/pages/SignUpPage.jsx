@@ -105,7 +105,7 @@ const Container = styled.div`
         margin-top: -1.5rem; //to remove the space between h1 and h4
       }
       h6 {
-         margin-top: -1.5rem;
+         margin-top: 1.5rem;
       }
     }
 
