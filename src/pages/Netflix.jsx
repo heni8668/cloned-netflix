@@ -40,7 +40,7 @@ const Netflix = () => {
         <TopNav isScrolled={isScrolled} />
         <img
           className="background-image"
-          src="https://res.cloudinary.com/ehizeex-shop/image/upload/v1668267540/NetflixApp/avengers-age-of-ultron-team-together-poster-wallpaper-1600x600-92751_84_qvwbif.jpg"
+          src="https://wallpapercave.com/wp/wp1818504.png"
           alt="hero image"
         />
         <div className="container">
