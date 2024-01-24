@@ -118,6 +118,7 @@ const Container = styled.div`
         padding: 1.5rem;
         font-size: 1.2rem;
         width: 45rem;
+        
         &focus {
           outline: none;
         }
